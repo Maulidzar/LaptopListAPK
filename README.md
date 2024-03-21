@@ -1,0 +1,1 @@
+Aplikasi Android sederhana yang mengimplementasikan RecyclerView dan Intent sebagai implementasi pembelajaran dari course Dicoding. Aplikasi menampilkan daftar-daftar laptop beserta deskripsinya, memiliki 3 bagian halaman, yaitu halaman utama, halaman detail laptop, dan halaman profil.
