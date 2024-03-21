@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">List Laptop APK</string>
+    <string name="laptop_name">Nama Laptop</string>
+    <string name="price">Harga</string>
+    <string name="nama">Arya Maulidzar S P</string>
+    <string name="email">maulidzar@student.ub.ac.id</string>
+    <string-array name="data_name">
+        <item>Acer Swift</item>
+        <item>Asus ROG</item>
+        <item>Asus TUF</item>
+        <item>Axioo Pongo</item>
+        <item>HP Omen</item>
+        <item>HP Victus 16</item>
+        <item>Lenovo Ideapad Gaming 3</item>
+        <item>Lenovo LOQ</item>
+        <item>MSI Bravo</item>
+        <item>MSI Stealh</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>8.000.000 </item>
+        <item>30.000.000 </item>
+        <item>15.000.000 </item>
+        <item>10.000.000 </item>
+        <item>20.000.000 </item>
+        <item>15.000.000 </item>
+        <item>13.000.000 </item>
+        <item>15.000.000 </item>
+        <item>13.000.000 </item>
+        <item>30.000.000 </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/acerswift</item>
+        <item>@drawable/asusrog</item>
+        <item>@drawable/asustuf</item>
+        <item>@drawable/axioopongo</item>
+        <item>@drawable/hpomen</item>
+        <item>@drawable/hpv16</item>
+        <item>@drawable/lenovoig3</item>
+        <item>@drawable/loq</item>
+        <item>@drawable/msibravo</item>
+        <item>@drawable/msistealth</item>
+    </integer-array>
+    <string-array name="data_description">
+        <item>Laptop ini merupakan salah satu dari lini laptop bisnis ACER yang lebih mengunggulkan keringanan untuk kenyamanan pengguna. Laptop ini tidak memiliki eksternal VGA sehingga tidak cocok untuk gaming.</item>,
+        <item>Laptop ini merupakan seri high end dari merk ASUS, performanya tidak perlu diragukan lagi karen sudah pasti rata kanan dan bisa melibas semua kebutuhan Anda.</item>,
+        <item>Laptop ini merupakan seri low end dari laptop gaming ASUS, biasanya performanya biasa saja karena memakai CPU dan VGA tingkat rendah, namun masih tetap bisa digunakan untuk pekerjaan yang lumayan berat.</item>,
+        <item>Laptop ini merupakan laptop dari Indonesia yang mulai naik daun pada tahun 2023 lalu, merk ini merupakan seri OEM Clevo yang dibeli oleh Axioo, untuk performanya bervariasi dari low-end sampai high-end.</item>,
+        <item>Laptop ini merupakan seri laptop tertinggi dari HP atau Hewlett Packard, laptop ini bertenaga sangat kencang dan dapat menjalankan semua kebutuhan Anda.</item>,
+        <item>Laptop ini merupakan seri menengah dari HP, merupakan adik dari seri OMEN, terkenal karena memiliki harga yang murah, namun dengan spek yang cukup tinggi.</item>,
+        <item>Laptop ini merupakan seri rendah dari laptop gaming lenovo, biasanya memiliki tenaga yang tidak terlalu besar, namun laptop lenovo terkenal akan garansinya dan juga keyboardnya yang nyaman digunakan.</item>,
+        <item>Laptop ini merupakan seri pengganti dari ideapad gaming yang baru rilis pada tahun 2023, laptop ini mengusung bentuk dari seri tertinggi lenovo yaitu legion, namun dengan mesin yang tidak terlalu tinggi.</item>,
+        <item>Laptop ini merupakan seri rendah dari MSI, kode Bravo sendiri berarti menggunakan CPU dan VGA dari AMD, bukan Intel, tenaganya tidak terlalu tinggi.</item>,
+        <item>Laptop ini merupakan seri cukup tinggi dari MSI, dikenal karena bentuknya yang slim, namun sangat powerful, sangat cocok untuk para gamer yang tidak suka dengan laptop yang berat dan memancing mata orang lain.</item>,
+    </string-array>
+</resources>
